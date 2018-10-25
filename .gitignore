@@ -39,3 +39,4 @@ rsconnect/
 .Rhistory
 .RData
 .Ruserdata
+.Rproj*
